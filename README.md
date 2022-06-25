@@ -1,4 +1,4 @@
-# traffic-datasets
+# Traffic Forecasting Datasets
 
 This repository contains a collection of the most frequently used datasets for traffic forecasting. 
 
